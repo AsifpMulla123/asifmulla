@@ -44,7 +44,7 @@ const Projects = () => {
               className="h-full w-80 bg-gray-400 rounded-2xl bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 border-slate-600 border"
             >
               <div className="absolute bg-black rounded-full h-6 w-6 z-20 right-3 top-3">
-                <a href={project.source_code_link} className="absolute">
+                <a href={project.source_code_link} className="absolute" target="_blank">
                   <img
                     src={github}
                     alt="github"

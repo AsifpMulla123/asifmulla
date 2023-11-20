@@ -15,17 +15,17 @@ const Footer = () => {
       <h2 className="mt-4">Asif Mulla</h2>
       <div className=" flex gap-4 mt-2">
         <p className="cursor-pointer hover:text-blue-800">
-          <a href={Bio.linkedin} alt="linkdeIn">
+          <a href={Bio.linkedin} alt="linkdeIn" target="_blank">
             <AiFillLinkedin className="w-7 h-7" />
           </a>
         </p>
         <p className="cursor-pointer hover:text-black hover:bg-white hover:rounded-full">
-          <a href={Bio.github} alt="github">
+          <a href={Bio.github} alt="github" target="_blank">
             <AiFillGithub className="w-7 h-7" />
           </a>
         </p>
         <p className="cursor-pointer hover:text-blue-800">
-          <a href={Bio.discord} alt="discord">
+          <a href={Bio.discord} alt="discord" target="_blank">
             <FaDiscord className="w-7 h-7" />
           </a>
         </p>

@@ -42,7 +42,7 @@ export const Bio = {
         "Front End Developer.",
     ],
     description: "I am curious and adventurous person who lover to explore new things. I always look for ways to improve myself. I am hard worker who is dedicated to my work and strives to achieve my goals. I am always open to learning new things and exploring new expreriences. overall I am person who is constantly seeking to grow and learn in every aspect of my life.",
-    github: "https://github.com/asifmulla123",
+    github: "https://github.com/AsifpMulla123",
     resume: Asif,
     linkedin: "https://linkedin.com/in/asif-P-Mulla",
     discord: "https://discord.com/channels/1175473617077809152/1175473617564340255"
